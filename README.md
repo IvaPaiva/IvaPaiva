@@ -29,5 +29,12 @@ Ao longo dos anos, desenvolvi uma maturidade profissional que me permite constru
 
 
 ## Contato
-- [LinkedIn](https://linkedin.com/in/ivaldopaiva)
-- [GitHub](https://github.com/seu-perfil)
+
+<div>
+    <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/IvaPaiva" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+</div>
