@@ -29,5 +29,5 @@ Ao longo dos anos, desenvolvi uma maturidade profissional que me permite constru
 
 
 ## Contato
-- [LinkedIn](linkedin.com/in/ivaldopaiva)
+- [LinkedIn](https://linkedin.com/in/ivaldopaiva)
 - [GitHub](https://github.com/seu-perfil)
