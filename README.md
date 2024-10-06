@@ -1,4 +1,10 @@
 # Olá, eu sou Iva Paiva 👋
+<div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
+<div align="center"><img src="https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg") /></div>
+
+
+<div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
+
 
 ## Sobre mim
 
