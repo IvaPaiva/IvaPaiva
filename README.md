@@ -6,8 +6,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="40"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="Angular" height="40"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" alt="PL/SQL" height="40"/>
-    
-    <!-- Adicionando os novos ícones -->
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" alt="Figma" height="40"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java" height="40"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftpowerbi.svg" alt="Power BI" height="40"/>
