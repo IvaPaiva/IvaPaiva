@@ -12,6 +12,12 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" alt="ERP" height="40" style="padding:10px;"/>
 </div>
 
+<div align="center">
+  <h3>🚀 Tecnologias que utilizo</h3>
+  <p>
+    💻 JavaScript &nbsp; | &nbsp; ⚛️ React &nbsp; | &nbsp; 🐙 GitHub &nbsp; | &nbsp; 🅰️ Angular &nbsp; | &nbsp; 🛢️ PL/SQL &nbsp; | &nbsp; 🎨 Figma &nbsp; | &nbsp; ☕ Java &nbsp; | &nbsp; 🔌 API &nbsp; | &nbsp; 🏷️ ERP
+  </p>
+</div>
 
 
 
