@@ -22,7 +22,7 @@ Ao longo dos anos, desenvolvi uma maturidade profissional que me permite constru
   <h3>🚀 Tecnologias em trilha de aprendizagem</h3>
   <p>
     💻 JavaScript &nbsp; | &nbsp; ⚛️ React &nbsp; | &nbsp; 🅰️ Angular &nbsp;
-    &nbsp; 🎨 Figma &nbsp; | &nbsp; ☕ Java &nbsp;
+    &nbsp; 🎨 Figma &nbsp; | &nbsp; ☕ Java &nbsp; | 🐙 GitHub &nbsp;
   </p>
 </div>
 
