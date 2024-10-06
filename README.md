@@ -1,26 +1,18 @@
 # Olá, eu sou Iva Paiva 👋
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" height="40" style="padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" height="40" style="padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="40" style="padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="Angular" height="40" style="padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" alt="PL/SQL" height="40" style="padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" alt="Figma" height="40" style="padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java" height="40" style="padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" alt="API" height="40" style="padding:10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeigniter.svg" alt="ERP" height="40" style="padding:10px;"/>
-</div>
-
-<div align="center">
   <h3>🚀 Tecnologias que utilizo</h3>
   <p>
-    💻 JavaScript &nbsp; | &nbsp; ⚛️ React &nbsp; | &nbsp; 🐙 GitHub &nbsp; | &nbsp; 🅰️ Angular &nbsp;
-    <p>| &nbsp; 🛢️ PL/SQL &nbsp; | &nbsp; 🎨 Figma &nbsp; | &nbsp; ☕ Java &nbsp; | &nbsp; 🔌 API &nbsp; | &nbsp; 🏷️ ERP </p>
+    🐙 GitHub &nbsp; | &nbsp;  &nbsp; 🛢️ PL/SQL &nbsp; | &nbsp; 🎨 Figma &nbsp; | &nbsp; 🔌 API &nbsp; | &nbsp; 🏷️ ERP </p>
   </p>
 </div>
-
-
+<div align="center">
+  <h3>🚀 Tecnologias em trilha de aprendizagem</h3>
+  <p>
+    💻 JavaScript &nbsp; | &nbsp; ⚛️ React &nbsp; | &nbsp; 🅰️ Angular &nbsp;
+    &nbsp; 🎨 Figma &nbsp; | &nbsp; ☕ Java &nbsp;
+  </p>
+</div>
 
 ## Sobre mim
 
