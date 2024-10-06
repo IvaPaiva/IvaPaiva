@@ -1,7 +1,5 @@
 # Olá, eu sou Iva Paiva 👋
 
-
-![Descrição da Imagem](https://cdn.pixabay.com/photo/2019/04/30/11/46/success-4168389_1280.jpg)
 ## Sobre mim
 
 Com cerca de 20 anos de experiência em TI e consultoria de negócios, atuo na implementação e consultoria de ERP, no desenvolvimento em PL/SQL (rotinas customizadas, regras de negócio, integrações), além da utilização de APIs para integração entre sistemas e coordenação de TI. Minha expertise inclui a construção de BI (relatórios e dashboards), tanto em ferramentas embargadas no ERP quanto em plataformas como Bimachine.
